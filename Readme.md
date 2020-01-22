@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Александра Ларина](https://up.htmlacademy.ru/htmlcss/27/user/422049).
+* Наставник: [Денис Власов](https://htmlacademy.ru/profile/amaringo).
 
 ---
 
